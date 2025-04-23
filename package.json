@@ -1,0 +1,10 @@
+{
+  "name": "verifica-copertura-fibercop",
+  "version": "1.0.0",
+  "main": "src/fibercop.js",
+  "author": "Edoardo Mistretta",
+  "description": "",
+  "dependencies": {
+    "@playwright/test": "^1.51.0"
+  }
+}
